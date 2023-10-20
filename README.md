@@ -12,10 +12,10 @@ A good question is one that you want to answer. It should be a question with con
 
 Prepare and submit a jupyter notebook that summarizes your work. Your notebook should contain the following sections/contents:
 
-<b> Data description: write up a short summary of the dataset you chose to work with following the conventions introduced in previous assignments. Cover the sampling if applicable and data semantics, but focus on providing high-level context and not technical details; don’t report preprocessing steps or describe tabular layouts, etc.
-<b> Question of interest: motivate and formulate your question; explain what a satisfactory answer might look like.
-<b> Data analysis: provide a walkthrough with commentary of the steps you took to investigate and answer the question. This section can and should include code cells and text cells, but you should try to focus on presenting the analysis clearly by organizing cells according to the high-level steps in your analysis so that it is easy to skim. For example, if you fit a regression model, include formulating the explanatory variable matrix and response, fitting the model, extracting coefficients, and perhaps even visualization all in one cell; don’t separate these into 5-6 substeps.
-<b> Summary of findings: answer your question by interpreting the results of your analysis, referring back as appropriate. This can be a short paragraph or a bulleted list.
+* Data description: write up a short summary of the dataset you chose to work with following the conventions introduced in previous assignments. Cover the sampling if applicable and data semantics, but focus on providing high-level context and not technical details; don’t report preprocessing steps or describe tabular layouts, etc.
+* Question of interest: motivate and formulate your question; explain what a satisfactory answer might look like.
+* Data analysis: provide a walkthrough with commentary of the steps you took to investigate and answer the question. This section can and should include code cells and text cells, but you should try to focus on presenting the analysis clearly by organizing cells according to the high-level steps in your analysis so that it is easy to skim. For example, if you fit a regression model, include formulating the explanatory variable matrix and response, fitting the model, extracting coefficients, and perhaps even visualization all in one cell; don’t separate these into 5-6 substeps.
+* Summary of findings: answer your question by interpreting the results of your analysis, referring back as appropriate. This can be a short paragraph or a bulleted list.
 
 ## Evaluation
 
